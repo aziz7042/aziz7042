@@ -150,7 +150,7 @@ The current source builds successfully with **zero warnings and zero errors**.
 
 - **Languages:** Arabic — native · German — C1 · English — fluent · French — fluent
 - **Currently exploring:** cloud infrastructure, Kubernetes fundamentals and AI-assisted software engineering
-- **Open to:** Werkstudent and internship opportunities in software engineering
+- **Open to:** Werkstudent and internship opportunities in software engineering and software development
 
 <p align="center">
   <strong>Build the system. Understand the trade-offs. Explain the result.</strong>
