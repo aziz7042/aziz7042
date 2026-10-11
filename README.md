@@ -116,7 +116,7 @@ The current source builds successfully with **zero warnings and zero errors**.
   <ul>
     <li><a href="https://github.com/aziz7042/beat-the-heat"><strong>Beat the Heat</strong></a> — Godot platformer with heat management, water pickups, hazards, shade zones and win/game-over states.</li>
     <li><a href="https://github.com/aziz7042/tower-defense-bot"><strong>Tower Defense Bot</strong></a> — Java strategy bot for affordable tower selection and map-specific placement.</li>
-    <li><a href="https://github.com/aziz7042/intelligent-systems-coursework"><strong>Intelligent Systems coursework</strong></a> — neural networks, backpropagation, TSP optimization, evolutionary algorithms, N-Queens and learning classifier systems.</li>
+    <li><a href="https://github.com/aziz7042/intelligent-systems-coursework"><strong>Intelligent Systems coursework</strong></a> — a rule-based wall follower, XOR backpropagation, TSP local search and evolutionary N-Queens.</li>
     <li><a href="https://github.com/aziz7042/security-engineering-coursework"><strong>Security engineering coursework</strong></a> — security-by-design, evidence collection, access control and encryption.</li>
     <li><a href="https://github.com/aziz7042/database-erp-coursework"><strong>Database & ERP coursework</strong></a> — SQL schemas, database exercises and ERP analysis.</li>
   </ul>
