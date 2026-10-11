@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Aziz Zarrouki — software engineering, full-stack, interactive systems and robotics" />
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/OPEN_TO-WERKSTUDENT_%26_INTERNSHIP-35E0A1?style=for-the-badge&labelColor=0B1220" alt="Open to working student and internship opportunities" />
   <img src="https://img.shields.io/badge/FOCUS-BUILDING_REAL_SYSTEMS-65A7FF?style=for-the-badge&labelColor=0B1220" alt="Focused on building real systems" />
 </p>
