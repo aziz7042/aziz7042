@@ -7,7 +7,7 @@
 
 I'm a Computer Science student at **Otto von Guericke University Magdeburg**. I enjoy projects where several layers must work together: a clean API, a useful interface, reliable state, and enough testing and documentation for another person to understand the system.
 
-My work spans **full-stack and mobile development**, **interactive systems**, **autonomous robotics**, and **computer networks**. The repositories below document selected personal and university projects with clear scope, team attribution and technical context.
+My work spans **full-stack and mobile development**, **interactive systems**, **autonomous robotics**, and **computer networks**. Below are some personal and university projects, including the team roles and technical context behind them.
 
 ## Engineering map
 
