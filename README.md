@@ -16,7 +16,7 @@ My work spans **full-stack and mobile development**, **interactive systems**, **
     <td width="50%" valign="top">
       <h3>◈ Product engineering</h3>
       <p>REST APIs, authentication, relational data, web interfaces and mobile clients built as one coherent product.</p>
-      <p><code>ASP.NET Core</code> <code>Vue 3</code> <code>TypeScript</code> <code>Flutter</code> <code>SQLite</code></p>
+      <p><code>Spring Boot</code> <code>React</code> <code>ASP.NET Core</code> <code>Vue 3</code> <code>TypeScript</code> <code>JPA</code></p>
     </td>
     <td width="50%" valign="top">
       <h3>◆ Interactive systems</h3>
@@ -54,7 +54,21 @@ My work spans **full-stack and mobile development**, **interactive systems**, **
 
 ---
 
-### `02` BARN World 037 · ROS 2 localization & navigation
+### `02` JobPilot · Spring Boot + React application tracker
+
+[Open repository →](https://github.com/aziz7042/jobpilot-spring-react)
+
+**Personal project** — a full-stack dashboard for organizing job applications and following each opportunity from wishlist to offer.
+
+`Java 17` · `Spring Boot 4` · `Spring Data JPA` · `React 19` · `TypeScript` · `Vite` · `H2`
+
+- REST CRUD API with DTOs, Bean Validation and centralized error handling
+- Database-level search and status filtering with Spring Data JPA
+- Persistent local storage, dashboard statistics, six backend tests and a responsive interface
+
+---
+
+### `03` BARN World 037 · ROS 2 localization & navigation
 
 [Open repository →](https://github.com/aziz7042/barn-ros2-navigation)
 
@@ -68,7 +82,7 @@ My work spans **full-stack and mobile development**, **interactive systems**, **
 
 ---
 
-### `03` King's Last Castle · 3D tower-defense game
+### `04` King's Last Castle · 3D tower-defense game
 
 [Open repository →](https://github.com/aziz7042/kings-last-castle)
 
@@ -80,7 +94,7 @@ My focus included gameplay flow, game states, menus, HUD, waves, gold, castle he
 
 ---
 
-### `04` FuelRunner · 3D endless runner
+### `05` FuelRunner · 3D endless runner
 
 [Open repository →](https://github.com/aziz7042/fuelrunner-monogame)
 
@@ -92,7 +106,7 @@ The current source builds successfully with **zero warnings and zero errors**.
 
 ---
 
-### `05` Reactive Routing with AODV · seminar research
+### `06` Reactive Routing with AODV · seminar research
 
 [Open repository →](https://github.com/aziz7042/aodv-routing-seminar)
 
@@ -102,7 +116,7 @@ The current source builds successfully with **zero warnings and zero errors**.
 
 ---
 
-### `06` Dino Runner · Java/libGDX game
+### `07` Dino Runner · Java/libGDX game
 
 [Open repository →](https://github.com/aziz7042/dino-runner-libgdx)
 
@@ -135,6 +149,8 @@ The current source builds successfully with **zero warnings and zero errors**.
 
 **Frameworks & platforms**
 
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
